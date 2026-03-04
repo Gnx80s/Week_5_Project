@@ -1,0 +1,4 @@
+# Sample packet logs for testing the IDS.
+# Used in sample mode when live network access is unavailable.
+# Follow the expected log format.
+# timestamp,source_ip,destination_ip,destination_port,protocol 

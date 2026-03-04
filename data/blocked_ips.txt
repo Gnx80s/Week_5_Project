@@ -1,0 +1,2 @@
+# Add malicious IP addresses to be blocked here.
+# Enter one IP address per line.
