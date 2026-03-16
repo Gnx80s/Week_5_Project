@@ -10,7 +10,7 @@ A Python-based network intrusion detection system that monitors live network tra
 - **Threat intelligence** - blocks known malicious IPs.
 - **Connection flood detection** - identifies potential DDoS attacks.
 - **Comprehensive alerting** - Automatically generate timestamped session reports.
-- Analyze previously saved JSON packet logs.
+- Analyse previously saved JSON packet logs.
  
 ## Requirements
 
@@ -27,7 +27,7 @@ pip install -r requirements.txt
 
 ## File Structure
 <pre>
-Codes/
+Week_5_Project/
 |
 ├── data/
 │   ├── sample_logs.txt        # Sample traffic logs
@@ -53,5 +53,5 @@ Codes/
 
 ## Disclaimer
 
-**This project is for educational and authorized testing purposes only.**
+**This project is for educational and authorised testing purposes only.**
 **Do not monitor networks without permission.**
